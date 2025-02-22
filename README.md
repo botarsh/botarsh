@@ -1,14 +1,12 @@
-<div align="left">
-  <img height="300" src="https://i.ibb.co/rRq0wqLb/1212132.png"  />
-</div>
+
 
 ###
 
-<h3>who loves programming</h3>
+
 
 ### Hi there this is Arshdeep 👋
 
-
+<h3>who loves programming</h3>
 
 Here are some ideas to get you started:
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for a Comeback
 - 📫 How to reach me: arshdeepsingh9162@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have drowned and Dreamt 
+- ⚡ Fun fact: I used to be a gamer 
 -->
 
 <h3>Languages and Tools:</h3>
@@ -78,7 +76,7 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/botarsh_is_live/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
     <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@botarshislive"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
-    <a href="https://aoudumbar.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
+    <a href="https://.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
     <!-- wakatime -->  
