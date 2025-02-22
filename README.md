@@ -6,15 +6,19 @@
 
 <h3>who loves programming</h3>
 
-- 🔭 I'm currently working on [aoudumber.netlify.app](https://aoudumber.netlify.app)
+### Hi there this is Arshdeep 👋
 
-- 🌱 I'm currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://aoudumber.netlify.app](https://aoudumber.netlify.app)
 
-- 💬 Ask me about **react, next.js, node.js**
+Here are some ideas to get you started:
 
-- 📫 How to reach me **aoudumber69@gmail.com**
+- 🔭 I’m currently on break
+- 🌱 I’m currently learning to be myself
+- 👯 I’m looking for a Comeback
+- 📫 How to reach me: arshdeepsingh9162@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have drowned and Dreamt 
+-->
 
 <h3>Languages and Tools:</h3>
 
