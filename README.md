@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
+<img align="right" width="88" src="#" />
 
 <p>&emsp;&emsp;Hi, I am Arshdeep Singh. I love programming, Gaming, reading, and traveling.</p>
 <p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
