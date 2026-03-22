@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I used to be a gamer 
 -->
 
-<h3>Languages and Tools:</h3>
+# 💻 Tech Stack:
 
 
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
   <!-- for beauty -->
   <div>&nbsp;</div>
-
+## 🌐 Socials:
   <!-- profile logo -->
   <div style="background-color:black;color:white;padding:40px">
     <a href="https://www.instagram.com/botarsh_is_live/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
