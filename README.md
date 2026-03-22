@@ -69,6 +69,9 @@ Here are some ideas to get you started:
   <!-- for beauty -->
   <div>&nbsp;</div>
 ## 🌐 Socials:
+###
+
+<br clear="both">
   <!-- profile logo -->
   <div style="background-color:black;color:white;padding:40px">
     <a href="https://www.instagram.com/botarsh_is_live/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
