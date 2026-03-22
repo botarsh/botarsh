@@ -69,7 +69,6 @@ Here are some ideas to get you started:
   <!-- for beauty -->
   <div>&nbsp;</div>
 ## 🌐 Socials:
-###
 
 <br clear="both">
   <!-- profile logo -->
