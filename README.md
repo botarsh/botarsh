@@ -104,16 +104,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=botarsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p>&emsp;&emsp;Hi, I am Arshdeep Singh. I love programming, Gaming, reading, and traveling.</p>
-<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
-<p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-</td></tr>
 
-<tr><td>
-
-
-
-<tr><td>
 
 </table>
 
