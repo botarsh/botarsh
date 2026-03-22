@@ -96,6 +96,14 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="#" />
 
+![](https://github-readme-stats.vercel.app/api?username=botarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=botarsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=botarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=botarsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <p>&emsp;&emsp;Hi, I am Arshdeep Singh. I love programming, Gaming, reading, and traveling.</p>
 <p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
 <p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
