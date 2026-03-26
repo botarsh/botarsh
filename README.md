@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently on break
 - 🌱 I’m currently learning to be myself
 - 👯 I’m looking for a Comeback
-- 📫 How to reach me: arshdeepsingh9162@gmail.com
+- 📫 How to reach me: singharshdeep2263@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to be a gamer 
 -->
